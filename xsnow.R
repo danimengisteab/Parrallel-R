@@ -1,3 +1,5 @@
+#This is a generic script to parallelize a cross-validation program
+
 library(snow)
 n <- 100
 set.seed(123)
