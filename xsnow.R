@@ -1,5 +1,6 @@
 #This is a generic script to parallelize a cross-validation program
-
+#I am adding more comments in this new branch
+#I think I am starting to understand git more
 library(snow)
 n <- 100
 set.seed(123)
