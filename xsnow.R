@@ -4,6 +4,7 @@ library(snow)
 n <- 100
 set.seed(123)
 
+#This is a new comment :)
 # generate data
 x <- rnorm(n)
 y <- x + rnorm(n)
